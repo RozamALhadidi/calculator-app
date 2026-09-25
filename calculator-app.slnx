@@ -6,6 +6,8 @@
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
     <File Path="README.md" />
+    <File Path="TextFile1.txt" />
+    <File Path="TextFile2.txt" />
   </Folder>
   <Project Path="E:/GitHub Projects/calculator-app/calculator-app.vcxproj" Id="cb350fac-3df3-4d5f-8e04-a920becce6be" />
 </Solution>
